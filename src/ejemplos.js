@@ -1,3 +1,5 @@
+
+
 console.log ("Trabajo de procesos y registro ");
 
 console.log("EJEMPLO 1 - Informacion basica");
@@ -89,5 +91,8 @@ function evaluarNota() {
                             let nombreUsuario = null;
                             let nombreMostrar = nombreUsuario ?? "Invitado";
                             console.log(nombreMostrar);
+
+
+
 
  
